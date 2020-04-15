@@ -4,7 +4,7 @@
 #### Written By - Justin Marcellis ####
 
 curl -k 'https://puppetIPaddress:8140/packages/current/install.bash' -o filename.bash && bash filename.bash
-echo script downloaded and emptied then executed;
+echo 'script downloaded and emptied then executed';
 done
 
 sleep 5
